@@ -1,17 +1,4 @@
-# Much-Worse jekyll theme
+This is the repository where my personal website resides. It is based on a [Much-Worse jekyll theme by gchauras](https://github.com/gchauras/much-worse-jekyll-theme) from which it was forked.
 
-This theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
+The original theme was distributed under the [MIT License](https://opensource.org/licenses/MIT) and all my modifications to the layout, navigation and the looks of the website have the same licence applying to them. The contents of my blog and project pages can be shared without modification and with proper attribution. My contact information should not be publically reproduced. 
 
-This is a modified version of [Steve Miller's NGVM theme](http://jekyllthemes.org/themes/svm-ngvb/). Since this work is a derivative of Prof. Miller's, therefore it is only fair that I honour his self-deprecating spirit and name this **much-worse**. I prefer large seriff fonts and minimal coloring and styling. Apart form the typography, color scheme and layout,
-this theme has two useful changes:
-
-- It allows you to maintain your website as a subdirectory on your university of company domain (e.g. http://university.edu/department/people/your-website). Most Jekyll blogs are
-designed to be hosted at custom domain names.
-
-- Most jekyll themes are blog-centric, or single page websites. This theme lets you create multi-page website with a blog if you want.
-
-Both the above are not seminal achievements in science, but they are useful. This theme also supports site analytics including [Statcounter](http://statcounter.com) and major comment providers for blogs.
-
-See it in action [here](http://people.csail.mit.edu/gchauras).
-
-Feel free to send me pull requests with better responsive performance or cleaner HTML/CSS.
