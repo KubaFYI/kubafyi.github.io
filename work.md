@@ -1,7 +1,8 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Work
+description: A description of my professional efforts will eventually appear here. In the meantime my CV will have to suffice.
+permalink: /work/
 cv_pdf_gdrive_id: 1WWnytcVMMKSlcP2p1bAcisBQ5DY7jWjs
 ---
 
