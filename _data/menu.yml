@@ -1,18 +1,19 @@
-- title: "Research"
-  href: "/research/"
+- title: "Work"
+  href: "/work/"
 
-- title: "CV"
-  href: "/cv/"
-
-- title: "Misc"
-  href: "/misc/"
-
-- title: "Submenu"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/misc/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/misc/item-2/"
+- title: "Projects"
+  href: "/projects/"
 
 - title: "Blog"
   href: "/blog/"
+  subcategories:
+    - subtitle: "Technology"
+      subhref: "/categories/#technology"
+    - subtitle: "Climate"
+      subhref: "/categories/#climate"
+    - subtitle: "Ramblings"
+      subhref: "/categories/#ramblings"
+
+- title: "Contact"
+  href: "/contact/"
+
