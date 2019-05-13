@@ -9,6 +9,7 @@ You can contact me in a variety of ways, as well as see other results of me typi
 
 In a crowd : calling me by my name <b>{{ site.author.name }} {{ site.author.surname }}</b><br />
 Email: [{{ site.author.email }}]( {{ "mailto:" | append: site.author.email }} ) <br />
+[LinkedIn]( {{ site.author.linkedin }} ) <br />
 [GitHub]( {{ site.author.github }} ) <br />
 [Twitter]( {{ site.author.twitter }} ) <br />
 [Stack Exchange]( {{ site.author.stackexchange }} ) <br />
