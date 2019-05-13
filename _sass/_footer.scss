@@ -21,3 +21,14 @@
     color: $url-hover-color;
     text-decoration: underline;
 }
+
+.site-footer svg {
+        display: inline-block;
+        width: 2em;
+        height: 1.5em;
+        vertical-align: middle;
+        fill: $text-light-color;
+        path {
+            fill: $text-light-color;
+        }
+}

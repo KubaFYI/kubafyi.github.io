@@ -9,9 +9,12 @@ url: "http://www.kuba.fyi"     # the base hostname & protocol for your site
 baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
-    name:
-    facebook:
-    scholar:
+    name: Kuba
+    surname: Sanak
+    email: contact@kuba.fyi
+    github: https://github.com/KubaFYI
+    twitter: https://twitter.com/KubaFYI
+    stackexchange: https://stackexchange.com/users/10645187/kubafyi
 
 # Build settings
 markdown: kramdown
