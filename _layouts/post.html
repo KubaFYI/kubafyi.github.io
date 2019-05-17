@@ -9,7 +9,7 @@ layout: default
     <p class="post-meta">{{ page.description }}</p>
     {% endif %}
 
-    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} {% if page.author %}by {{ page.author }}{% else %}{% if site.author.name %}by {{ site.author.name }}{% endif %}{% endif %}{% if page.location %} ({{ page.location }}{% endif %})</p>
+    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} {% if page.author %}by {{ page.author }}{% else %}{% if site.author.name %}by {{ site.author.name }}{% endif %}{% endif %}{% if page.location %} ({{ page.location }}){% endif %}</p>
 
     {% if page.categories %}
     <p class="post-meta">Categories:
