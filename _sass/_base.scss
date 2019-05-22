@@ -21,6 +21,22 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+// Automatic footnote generation
+body {
+    counter-reset: footnotecounter;
+}
+
+span.footnote:before {
+  counter-increment: footnotecounter;
+  content: counter(footnotecounter);
+  position: relative;
+  top: -0.4em;
+  font-size: $small-font-size;
+}
+
+span.footnote {
+    color: $url-color;
+}
 
 // Set `margin-bottom` to maintain vertical rhythm
 h1, h2, h3, h4, h5, h6,
